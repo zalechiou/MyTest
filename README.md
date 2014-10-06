@@ -59,3 +59,12 @@ puts markdown.to_html
 
 
 
+# References
+
+* SHA: 5f1f5dfc5a7c09271aaf50d7cd9092a58c5ffbd2
+* User@SHA: zalechiou@8ecffe98ea1b4a4c80a015acb639f82f33de23b6
+* User/Repository@SHA: zalechiou/MyTest@f684d47e82e55f45495bb7bb5fd4c7f17dc25be2
+* #Num: #26
+* GH-Num: GH-26
+* User#Num: zale#26
+* User/Repository#Num: zale/weekly#26
